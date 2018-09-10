@@ -1,0 +1,21 @@
+
+#zxw{
+	margin-left: 30%;
+}
+#top{
+	
+	width: 400px;
+}
+#Middle{
+	width: 40%;
+	margin-left: 200px;
+}
+#middlefoot{
+	margin-left: 70px;
+}
+#foot{
+	margin-left: 100px;
+	background-color: yellow;
+	width: 40%;
+	font: "gill sans mt ext condensed bold";
+}
