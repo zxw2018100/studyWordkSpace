@@ -1,0 +1,75 @@
+#web{
+	margin-left: 33%;
+	margin-top: 8%;
+	width: 96%;
+	
+}
+#mail_p{
+	margin-left: 83px;
+	margin-top: -10px;
+}
+#Pass{
+	margin-left: 36px;
+	width:	480px ;
+}
+#Pass_p{
+	margin-left: 46px;
+	margin-top: -10px;
+}
+#pass_a{
+	margin-left: 3px;
+}
+#pass_p{
+	margin-top: -10px;
+	margin-left: 79px;
+}
+#phone{
+	margin-left: 1px;
+}
+#phone_p{
+	margin-left: 79px;
+	margin-top: -10px;
+}
+#img{
+	float: right;
+	margin-right: 65.2%;
+	margin-top: -87px;
+}
+#code_input{
+	margin-left: 18px;
+	
+}
+#code_input_p{
+	margin-left: 62px;
+	margin-top: 30px;
+}
+#code_a{
+	float: left;
+	margin-left: 26%;
+	margin-top: -35px;
+}
+#code_button{
+	margin-left: 80px;
+	margin-top: -5px;
+}
+#Short{
+	margin-left: -13px;
+}
+#Short_p{
+	margin-top: -10px;
+	margin-left: 92px;
+}
+#new_foot{
+	margin-left: 77px;
+}
+
+#button{
+	width: 20px;
+	height: 20px;
+	background-color: yellowgreen;
+	color: white;
+}
+#submit{
+	margin-left: 80px;
+	margin-top: 20px;
+}
