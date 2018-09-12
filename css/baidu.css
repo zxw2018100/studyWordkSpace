@@ -1,0 +1,105 @@
+#baidu{
+	width: 99%;
+}
+#text{
+	margin-left: 20px;
+	width: 12%;
+	float: left;
+}
+#text a{
+		text-decoration: none;
+		padding-right: 5px;
+		height: 32px;
+		line-height: 32px;
+		width: 24px;
+		color: #555;
+		font-size: 12px;
+	
+}
+.t_chengdu{
+	padding-left: 5px;
+}
+#text img{
+	width: 7%;
+}
+#baidu_left{
+	width: 20%;
+	float: left;
+}
+#baidu_left a{
+	padding-right: 19px;
+	height: 32px;
+	line-height: 32px;
+	width: 24px;
+	color: #555;
+	font-size: 12px;
+}
+#baidu_rigth{
+	float: right;
+}
+#baidu_rigth a{
+		padding-right: 19px;
+		height: 32px;
+		line-height: 32px;
+		width: 24px;
+		color: #555;
+		font-size: 12px;
+	
+}
+#baidu_img{
+	margin-left: 33%;
+	height: 50%;
+	width: 50%;
+	/* background-color: blueviolet; */
+	padding-top: 130px;
+}
+#baidu_img img{
+	width: 300px;
+}
+#input{
+	width: 500px;
+	height: 40px;
+	padding: 0px;
+}
+#input_f_p{
+	float: left;
+	margin-left: 20%;
+	/* background-color: #FFFF00; */
+	width: 100%;
+	height: 50px;
+}
+.an{
+	width: 120px;
+	height: 44px;
+	color: white;
+	background-color: blue;
+	border: 0px;
+	padding: 0px;
+	font-size: 25px;
+	margin-left: -5px;
+	margin-top: -50px;	
+}
+#anniu{
+	margin-top: -30px;
+	margin-left: 509px;
+}
+.title{
+		
+		height: 32px;
+		line-height: 32px;
+		width: 24px;
+		color: #555;
+		font-size: 12px;
+}
+#foot{
+
+	margin-left: 25%;
+	margin-top: 300px;
+}
+.title_a{
+		height: 32px;
+		line-height: 32px;
+		width: 24px;
+		color: #555;
+		font-size: 12px;
+}
